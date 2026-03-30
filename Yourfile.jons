@@ -11,10 +11,4 @@
         "expirydate": "15-01-2027",
         "Allowoffline": false
     },
-    {
-        "device_id": "05b5bf3b36a75dbd",
-        "key": "Sagarr1",
-        "expirydate": "31-04-2026",
-        "Allowoffline": false
-    },
 ]
