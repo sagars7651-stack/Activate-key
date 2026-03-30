@@ -11,4 +11,10 @@
         "expirydate": "15-01-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "d0bcf85caa7540e3",
+        "key": "Jaybhole",
+        "expirydate": "01-04-2026",
+        "Allowoffline": false
+    },
 ]
