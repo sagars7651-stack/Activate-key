@@ -23,5 +23,11 @@
         "expirydate": "31-03-2026",
         "Allowoffline": false
      },
+     {
+        "device_id": "2d74aeac55323859",
+        "key": "Sachin07",
+        "expirydate": "14-04-2026",
+        "Allowoffline": false
+     },
 ]
 
