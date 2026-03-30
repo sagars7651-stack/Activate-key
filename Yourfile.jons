@@ -12,21 +12,4 @@
         "Allowoffline": false
     },
     {
-        "device_id": "05b5bf3b36a75dbd",
-        "key": "Jkmod1",
-        "expirydate": "15-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "d0bcf85caa7540e3",
-        "key": "Jkmod2",
-        "expirydate": "15-01-2027",
-        "Allowoffline": false
-    },
 ]
