@@ -35,5 +35,17 @@
         "expirydate": "29-04-2026",
         "Allowoffline": false
      },
+     {
+        "device_id": "66e6fe2659afcc97",
+        "key": "Nmms1",
+        "expirydate": "01-04-2026",
+        "Allowoffline": false
+     },
+     {
+        "device_id": "615523b7f2a5b649",
+        "key": "Nmms2",
+        "expirydate": "01-04-2026",
+        "Allowoffline": false
+     },
 ]
 
