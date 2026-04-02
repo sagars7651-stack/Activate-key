@@ -24,39 +24,9 @@
         "Allowoffline": false
      },
      {
-        "device_id": "05b5bf3b36a75dbd",
-        "key": "Sagar",
-        "expirydate": "01-04-2026",
-        "Allowoffline": true
-     },
-     {
         "device_id": "ff7876e49cf68421",
         "key": "Sanjay",
         "expirydate": "29-04-2026",
-        "Allowoffline": false
-     },
-     {
-        "device_id": "66e6fe2659afcc97",
-        "key": "Nmms1",
-        "expirydate": "01-04-2026",
-        "Allowoffline": false
-     },
-     {
-        "device_id": "615523b7f2a5b649",
-        "key": "Nmms2",
-        "expirydate": "01-04-2026",
-        "Allowoffline": false
-     },
-     {
-        "device_id": "64920f7d8cafed82",
-        "key": "Nmms3",
-        "expirydate": "02-04-2026",
-        "Allowoffline": false
-     },
-     {
-        "device_id": "83e8996d35959f62",
-        "key": "Naveen",
-        "expirydate": "02-04-2026",
         "Allowoffline": false
      },
 ]
